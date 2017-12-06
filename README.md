@@ -1,6 +1,6 @@
 # Reproducible research on child and youth development
 
-University of Cologne
+University of Cologne  
 Summer and Winter 2018
 
 
