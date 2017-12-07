@@ -1,7 +1,4 @@
-# Reproducible research on child and youth development
-
-University of Cologne  
-Summer and Winter 2018
+[Details](index) /// [Description](description) ///
 
 
 ## Course description
@@ -12,10 +9,3 @@ A key goal of the course is to establish a workflow for *transparent* and *repro
 ## Resources
 
 http://www.projecttier.org/
-
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](about).
