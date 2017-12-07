@@ -1,5 +1,5 @@
 
 ## Resources
 
-http://www.projecttier.org/
+<http://www.projecttier.org/>
 
