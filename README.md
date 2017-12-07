@@ -12,3 +12,10 @@ A key goal of the course is to establish a workflow for *transparent* and *repro
 ## Resources
 
 http://www.projecttier.org/
+
+
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](about).
