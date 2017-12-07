@@ -1,16 +1,7 @@
-[Details](index) /// [Description](description) ///
 
+## About the course
 
-## Course details
-
-<dl>
-<dt>Place</dt>
-<dd>University of Cologne</dd>
-<dt>Time</dt>
-<dd>Summer and Winter 2018</dd>
-<dt>Instructor</dt>
-<dd>Michael Kühhirt</dd>
-</dl>
+This is a research lab within the M.Sc. program [Sociology and Empirical Social Research](https://www.wiso.uni-koeln.de/en/studies/master/master-sociology-and-social-research/) at the University of Cologne, Germany. It stretches over two semesters with the aim to train students to carry out their own research project from formulating a research question to writing a summary report. 
 
 
 
