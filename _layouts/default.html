@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
@@ -21,14 +22,23 @@
         {% if site.github.is_project_page %}
           <p><a href="index">ABOUT</a><br/>
              <a href="description">CONTENT</a><br/>
+             <a href="goals">GOALS</a><br/>
+             <a href="grade">GRADING</a><br/>
              <a href="schedule">SCHEDULE</a><br/>
-             <a href="resources">RESOURCES</a></p>
-        <p class="view"><a href="{{ site.github.repository_url }}">View the course on GitHub <small>{{ github_name }}</small></a></p>
-        <p><a href="https://kuehhirt.github.io/teaching">Other courses</a></p> 
+             <a href="resources">RESOURCES</a></p>  
+          <p><a href="https://kuehhirt.github.io/teaching"><i class='fa fa-home'>Other courses</a></p> 
         {% endif %}
 
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+          {% if site.github.is_user_page %}
+           <p><a href="index">ABOUT</a><br/>
+             <a href="research">RESEARCH</a><br/>
+             <a href="teaching">TEACHING</a><br/>
+             <a href="contact">CONTACT</a></p>
+
+        <p>
+          <a href="https://twitter.com/droverbytrade"><i class='fa fa-twitter'></i></a>
+          <a href="https://github.com/kuehhirt"><i class='fa fa-github'></i></a>
+        </p>
         {% endif %}
 
         {% if site.show_downloads %}
