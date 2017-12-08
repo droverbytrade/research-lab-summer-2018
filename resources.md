@@ -14,7 +14,7 @@ Find our class page at:
 #### Other resources
 
 Birth cohorts worldwide:  
-http://www.birthcohorts.net/
+<http://www.birthcohorts.net/>
 
 Developing a Child Cohort Research Strategy for Europe:  
 <http://www.chicosproject.eu/>
