@@ -1,4 +1,4 @@
 
 ## Goals and learning outcomes
 
-*comming soon*
+*coming soon*
