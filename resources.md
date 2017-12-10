@@ -1,7 +1,7 @@
 
-## Resources
+## Course Resources
 
-### Course materials and submission of assignments on Ilias
+### Materials and submission of assignments on Ilias
 
 *coming soon*
 
