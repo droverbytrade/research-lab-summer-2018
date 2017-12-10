@@ -1,5 +1,5 @@
 
-## Course Resources
+## Course resources
 
 ### Materials and submission of assignments on Ilias
 
