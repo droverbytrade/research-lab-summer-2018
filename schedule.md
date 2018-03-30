@@ -4,7 +4,7 @@
  
 * Introduction
 * Lecture: The Sociology of Child and Youth Development
-* Homework 1 (Find an Empirical Study)
+* Homework 1 (Find an Empirical Study) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://osf.io/seur6/)
 
 **April 17:**
 
@@ -51,7 +51,7 @@
 
 * Discussion: Homework 7
 * Lecture: Putting It All Together
-* Homework 8 (Present Your Study)
+* Homework 8 (Present Your Study) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://osf.io/vbdy4/)
 
 **June 19:** 
 
