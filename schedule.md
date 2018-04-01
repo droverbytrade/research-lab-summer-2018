@@ -10,7 +10,7 @@
 
 * Lecture: The National Longitudinal Survey of Youth (NLSY)
 * Lecture: A Workflow for Reproducible Research
-* Homework 2 (Set Up The Workflow)
+* Homework 2 (Set Up The Workflow) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/538wa/?action=download%26mode=render)
 
 **April 24:**
 

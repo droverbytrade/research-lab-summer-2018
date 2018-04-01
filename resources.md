@@ -41,5 +41,5 @@ Birth cohorts worldwide:
 Developing a Child Cohort Research Strategy for Europe:  
 <http://www.chicosproject.eu/>
 
-Project TIER: Teaching Integrity in Empirical Research:  
+Project TIER - Teaching Integrity in Empirical Research:  
 <http://www.projecttier.org/>
