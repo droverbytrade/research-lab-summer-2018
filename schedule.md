@@ -4,7 +4,7 @@
  
 * Introduction
 * Lecture: Research on Child and Youth Development
-* Homework 1 (Find an Empirical Study) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/seur6/?action=download%26mode=render)
+* Homework 1 (Find An Empirical Study) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/seur6/?action=download%26mode=render)
 
 **April 17:**
 
