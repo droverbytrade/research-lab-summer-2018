@@ -70,6 +70,6 @@
 
 * Discussion: Homework 9
 * Lecture: Acquisition of NLSY Raw Data
-* Homework 10 (Write A Proposal)
+* Homework 10 (Write A Proposal) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/cv356/?action=download%26mode=render)
 
 **August 5:** *Homework 10 Due*
