@@ -15,7 +15,7 @@ The class has three broad goals, which I enumerate below. Each goal is associate
    
 3. document their empirical research project by
    * writing a research report,
-   * proving materials to reproduce their research from data acquisition through data preparation to data analysis,
+   * providing materials to reproduce their research from data acquisition through data preparation to data analysis,
    * presenting their research project in class.
    
 Although the substantive focus of the class is on child and youth development, all learning outcomes can be readily transferred to other topics in empirical social research. Many of the skills practiced in class (e.g., summarizing existing knowledge, script-based data preparation and analysis, writing and presenting) are also valuable for jobs outside academia.
