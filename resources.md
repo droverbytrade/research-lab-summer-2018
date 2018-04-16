@@ -3,8 +3,7 @@
 
 ### Materials on Ilias (UoC e-learning platform)
 
-Here you'll find slides and other class materials:
-
+Here you'll find slides and other class materials:  
 <https://www.ilias.uni-koeln.de/ilias/goto_uk_crs_2459216.html>
 
 ### Q&A on Piazza

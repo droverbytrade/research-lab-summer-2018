@@ -62,7 +62,7 @@
 
 * Presentations of Empirical Studies III
 * Presentations of Empirical Studies IV
-* Homework 9 (Be An Investigator)
+* Homework 9 (Be An Investigator) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/s2wkm/?action=download%26mode=render)
 
 **July 3:** NO CLASS
 
