@@ -16,7 +16,7 @@
 
 * Discussion: Homework 2
 * Lecture: Data Exploration, Commenting Code, Capturing Output
-* Homework 3 (Explore The Data)
+* Homework 3 (Explore The Data) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/ps3dg/?action=download%26mode=render)
 
 **May 1:** NO CLASS
 
