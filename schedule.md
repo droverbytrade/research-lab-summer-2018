@@ -24,7 +24,7 @@
 
 * Discussion: Homework 3
 * Lecture: Data Cleaning I
-* Homework 4 (Clean The Data)
+* Homework 4 (Clean The Data) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/5eck8/?action=download%26mode=render)
 
 **May 15:**
 
