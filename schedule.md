@@ -30,7 +30,7 @@
 
 * Discussion: Homework 4
 * Lecture: Data Cleaning II
-* Homework 5 (Clean More Data)
+* Homework 5 (Clean More Data) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/mwsyr/?action=download%26mode=render)
 * *Homework 1 Due*
 
 **May 22:** NO CLASS
@@ -38,8 +38,8 @@
 **May 29:**
 
 * Discussion: Homework 5
-* Lecture: Joining and Reshaping Datasets
-* Homework 6 (Join and Reshape Data)
+* Lecture: Combining Data Using The Merge Command
+* Homework 6 (Combine Data) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/cmj5e/?action=download%26mode=render)
 
 **June 5:**
 
@@ -50,7 +50,7 @@
 **June 12:**
 
 * Discussion: Homework 7
-* Lecture: Putting It All Together
+* Exercise: Putting It All Together
 * Homework 8 (Present Your Study) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/vbdy4/?action=download%26mode=render)
 
 **June 19:** 
@@ -69,7 +69,7 @@
 **July 10:**
 
 * Discussion: Homework 9
-* Lecture: Acquisition of NLSY Raw Data
+* Lecture: Working With NLSY Raw Data
 * Homework 10 (Write A Proposal) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/cv356/?action=download%26mode=render)
 
 **August 5:** *Homework 10 Due*
