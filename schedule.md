@@ -45,7 +45,7 @@
 
 * Discussion of Homework 6
 * Lecture: Loops and Basic Automation
-* Homework 7 (May The Loop Be With You)
+* Homework 7 (May The Loop Be With You) [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/4csn5/?action=download%26mode=render)
 
 **June 12:**
 
