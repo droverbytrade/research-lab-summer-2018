@@ -1,5 +1,8 @@
-
-## Class resources
+---
+layout: category
+title: Resources
+sidebar_sort_order: 6
+---
 
 ### Materials on Ilias (UoC e-learning platform)
 

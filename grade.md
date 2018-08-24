@@ -1,5 +1,8 @@
-
-## Requirements and grading
+---
+layout: category
+title: Grade
+sidebar_sort_order: 4
+---
 
 To successfully complete the class, you must meet the following requirements. In the first semester (Summer 2018), you
 

@@ -1,5 +1,8 @@
-
-## About the class
+---
+layout: category
+title: About
+sidebar_sort_order: 1
+---
 
 This is a research lab within the M.Sc. program [Sociology and Empirical Social Research](https://www.wiso.uni-koeln.de/en/studies/master/master-sociology-and-social-research/) at the University of Cologne, Germany. It stretches over two semesters with the aim to train students to carry out their own research project from formulating a research question to writing a summary report. 
 

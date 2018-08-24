@@ -1,5 +1,8 @@
-
-## Goals and learning outcomes
+---
+layout: category
+title: Goals
+sidebar_sort_order: 3
+---
 
 The class has three broad goals, which I enumerate below. Each goal is associated with a number of specific learning outcomes, which you should be able to perform as the class concludes after two semesters. Students who complete the class should be able to
 

@@ -1,4 +1,8 @@
-## Class schedule
+---
+layout: category
+title: Schedule
+sidebar_sort_order: 5
+---
 
 **April 10:**
  
