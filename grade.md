@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Grade
+title: Grading
 sidebar_sort_order: 4
 ---
 
