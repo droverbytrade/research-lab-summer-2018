@@ -10,7 +10,7 @@ The course syllabus as PDF: [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
 
 
 ### Evaluations and feedback:  
-[Sommer 2018](https://www.dropbox.com/s/3xo6d7fol0uxt0y/ReproducibleResearchSS18.pdf?dl=0)
+[Summer 2018](https://www.dropbox.com/s/3xo6d7fol0uxt0y/ReproducibleResearchSS18.pdf?dl=0)
 
 <p class="message">
 The content and important aspects were explained very clearly.
