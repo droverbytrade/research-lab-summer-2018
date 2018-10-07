@@ -1,14 +1,19 @@
 ---
-layout: category
+layout: page
 title: Grading
-sidebar_sort_order: 4
 ---
 
-To successfully complete the class this semester, you
+To successfully complete the class, you must meet the following requirements. In the first semester (Summer 2018), you
 
-* submit a first draft of your research report along with documentation to reproduce your project (due December 19, 2018),
-* present a revised version of your report (between January 8-29, 2019),
-* submit your final research report along with documentation to reproduce your project (due February 15, 2019, 12:00pm).
+* present an empirical study on a specific topic in child or youth development that you want to replicate in your research project,
+* write a proposal summarizing your research question, theoretical background, and analytical approach.
+
+In the second semester (Winter 2018), you
+
+* present a progress report on your research project in class,
+* write a research report along with documentation to reproduce your project.
+
+In addition, there will be homework assignments designed to facilitate successful class completion. Although these assignments aren't graded, I highly recommend to work through them within the appropriate time period in order to regularly review and practice class contents. In some cases, the homework is also immediately related to the class requirements outlined above. Homework 1 contains information on how to find an appropriate empirical study for replication. For details on the content and structure of the presentation of your empirical study, see Homework 8. In Homework 10 you'll find instructions for writing the research proposal.
 
 ### Research project
 In your research project, you replicate an existing empirical study on child or youth development in whole or in part. The primary goal is to competently carry out some or all of the empirical analyses in the study, to appropriately motivate the analyses, and to document your project workflow so that it can be understood and reproduced by anyone who has access to the original data. An exceptional research project additionally extends the original analysis in a meaningful way, for example, by
@@ -19,36 +24,7 @@ In your research project, you replicate an existing empirical study on child or 
 * using additional or alternative control variables,
 * applying alternative statistical methods.
 
-The research report is structed as follows:
-
-* Introduction
-* Theoretical background
-* Previous research (can also be integrated in one of the above)
-* Method
-  * Data and sample
-  * Variables
-  * Analytic strategy
-* Results
-  * Sample description
-  * Main analyses
-* Discussion and conclusions 
-
-The project documentation contains
-
-* the folder structure established in the first part of the class,
-* a readme-file that describes the documentation files and how to use them to reproduce the project,
-* the raw data in CSV-format,
-* a master do-file which executes all other do-files,
-* one or more do-files that prepare the raw data for analysis (marked by the prefix `cr`),
-* one or more do-files that reproduce consistency checks, sample description, and main analyses (marked by the prefix `an`).
-
-Grading is based on the following criteria:
-
-* Situating the research question in the context of existing theory and research (10%)
-* Connection between research question, theory, method/analyses, and interpretation/conclusions (20%)
-* Adherence to scientific standards (adequate presentation of existing theory, research, and methods; correct interpretation of results; clarity of writing and argument; appropriate referencing; proper labelling of figures and tables and formatting of text) (30%)
-* Correctness and reproducibility of data preparation and analyses and completeness of project documentation (40%)
-
+The final report should emulate an empirical article in a typical social science journal. Guidelines and techniques for project documentation will be discussed and applied as the class progresses. I'll provide more details on the structure, layout, and grading of the report at the beginning of next semester.
 
 ### Bonus points
 You can improve your final grade by one decimal increment (e.g., from 1.7 to 1.3 or from 3.0 to 2.7) by adequately answering a total of 10 questions posted by your classmates on Piazza, an online platform for class Q&A (see class resources below). For your answer to count towards your grade it must completely solve the initial query, including follow-up questions and clarifications, within 24 hours of the first post. Answers to trivial questions (e.g., "When is Homework 1 due?" or "Where do I find the slides?") don't qualify in this context. This bonus point policy is subject to review after the first semester.
