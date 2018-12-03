@@ -9,20 +9,5 @@ This is a research lab within the M.Sc. program [Sociology and Empirical Social 
 The course syllabus as PDF: [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://mfr.osf.io/render?url=https://osf.io/vz2mk/?action=download%26mode=render)
 
 
-### Evaluations and feedback:  
+### Evaluations:  
 [Summer 2018](https://www.dropbox.com/s/3xo6d7fol0uxt0y/ReproducibleResearchSS18.pdf?dl=0)
-
-<p class="message">
-The content and important aspects were explained very clearly.
-</p>
-
-<p class="message">
-There is a constant level of work with excellent supervision.
-
-<p class="message">
-Great module/research seminar that I will recommend to other students.
-</p>
-
-<p class="message">
-The homework assignments were really helpful.
-</p>
